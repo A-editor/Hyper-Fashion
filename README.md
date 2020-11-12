@@ -52,3 +52,8 @@ This can be deployed using AWS.
 - **Austin Douse**
 - **Maxwell Katz**
 - **Susy(Qinqin) Yang**
+
+## Demo
+Please click below for a demo video
+
+[![Watch the demo video](http://g.recordit.co/fRBBDhKyis.gif)](https://vimeo.com/428809622)
